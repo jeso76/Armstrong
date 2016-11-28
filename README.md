@@ -1,6 +1,9 @@
 # Armstrong
 
 **Uppgift**
+Skriv ett program som kontrollerar om ett tal är ett Armstrong-tal eller inte.
+
+
 Ett Armstrong-tal är ett tal som är lika med summan av kubiken av dess siffror.
 
 Till exempel 0, 1, 153, 370, 371, 407 etc.
