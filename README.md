@@ -22,5 +22,5 @@ Där:
 
 
 **Hur**
-TDD ska användas och uppgiften ska lösas med hjälp av funktionallitet i Java8.
+TDD ska användas och uppgiften ska lösas med hjälp av funktionalitet i Java8.
 
