@@ -1,10 +1,10 @@
 package se.ehm.armstrong;
 
 /**
- * Hello world!
+ * Armstrong number
  *
  */
-public class App 
+public class Armstrong
 {
     public static void main( String[] args )
     {
